@@ -10,7 +10,7 @@ namespace HelloWorldCPW212
     {
         static void Main()
         {
-            Console.WriteLine("Welcome!");
+            Console.WriteLine("Hello World!");
 
             Console.ReadKey();
         }
